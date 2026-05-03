@@ -1,0 +1,11 @@
+UserId 	 latest_day 	 total_tasbeeh 	  total_goals 	 total_prayers 	 total_bonus_pra 	 total_points
+0 	  	0     	 	 0   	 	 0  	  	0 	  	 0  	  	  	0
+1 	  	0     	 	 0   	 	 0  	  	0 	  	 0  	  	  	0
+2 	  	1     	 	 0   	 	 1  	  	5 	  	 2  	  	  	100
+3 	  	0     	 	 0   	 	 0  	  	0 	  	 0  	  	  	0
+4 	  	0     	 	 0   	 	 0  	  	0 	  	 0  	  	  	0
+5 	  	0     	 	 0   	 	 0  	  	0 	  	 0  	  	  	0
+6 	  	0     	 	 0   	 	 0  	  	0 	  	 0  	  	  	0
+7 	  	0     	 	 0   	 	 0  	  	0 	  	 0  	  	  	0
+8 	  	0     	 	 0   	 	 0  	  	0 	  	 0  	  	  	0
+9 	  	0     	 	 0   	 	 0  	  	0 	  	 0  	  	  	0

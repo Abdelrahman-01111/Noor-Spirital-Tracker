@@ -1,0 +1,240 @@
+Day 1
+fajr    : 04:41 AM
+sunrise : 06:15 AM
+dhuhr   : 12:52 PM
+asr     : 04:30 PM
+maghrib : 07:54 PM
+isha    : 08:54 PM
+-------------------
+Day 2
+fajr    : 04:42 AM
+sunrise : 06:16 AM
+dhuhr   : 12:53 PM
+asr     : 04:31 PM
+maghrib : 07:55 PM
+isha    : 08:55 PM
+-------------------
+Day 3
+fajr    : 04:43 AM
+sunrise : 06:17 AM
+dhuhr   : 12:54 PM
+asr     : 04:32 PM
+maghrib : 07:56 PM
+isha    : 08:56 PM
+-------------------
+Day 4
+fajr    : 04:44 AM
+sunrise : 06:18 AM
+dhuhr   : 12:55 PM
+asr     : 04:33 PM
+maghrib : 07:57 PM
+isha    : 08:57 PM
+-------------------
+Day 5
+fajr    : 04:45 AM
+sunrise : 06:19 AM
+dhuhr   : 12:56 PM
+asr     : 04:34 PM
+maghrib : 07:58 PM
+isha    : 08:58 PM
+-------------------
+Day 6
+fajr    : 04:46 AM
+sunrise : 06:20 AM
+dhuhr   : 12:57 PM
+asr     : 04:35 PM
+maghrib : 07:59 PM
+isha    : 08:59 PM
+-------------------
+Day 7
+fajr    : 04:47 AM
+sunrise : 06:21 AM
+dhuhr   : 12:58 PM
+asr     : 04:36 PM
+maghrib : 08:00 PM
+isha    : 09:00 PM
+-------------------
+Day 8
+fajr    : 04:48 AM
+sunrise : 06:22 AM
+dhuhr   : 12:59 PM
+asr     : 04:37 PM
+maghrib : 08:01 PM
+isha    : 09:01 PM
+-------------------
+Day 9
+fajr    : 04:49 AM
+sunrise : 06:23 AM
+dhuhr   : 01:00 PM
+asr     : 04:38 PM
+maghrib : 08:02 PM
+isha    : 09:02 PM
+-------------------
+Day 10
+fajr    : 04:50 AM
+sunrise : 06:24 AM
+dhuhr   : 01:01 PM
+asr     : 04:39 PM
+maghrib : 08:03 PM
+isha    : 09:03 PM
+-------------------
+Day 11
+fajr    : 04:51 AM
+sunrise : 06:25 AM
+dhuhr   : 01:02 PM
+asr     : 04:40 PM
+maghrib : 08:04 PM
+isha    : 09:04 PM
+-------------------
+Day 12
+fajr    : 04:52 AM
+sunrise : 06:26 AM
+dhuhr   : 01:03 PM
+asr     : 04:41 PM
+maghrib : 08:05 PM
+isha    : 09:05 PM
+-------------------
+Day 13
+fajr    : 04:53 AM
+sunrise : 06:27 AM
+dhuhr   : 01:04 PM
+asr     : 04:42 PM
+maghrib : 08:06 PM
+isha    : 09:06 PM
+-------------------
+Day 14
+fajr    : 04:54 AM
+sunrise : 06:28 AM
+dhuhr   : 01:05 PM
+asr     : 04:43 PM
+maghrib : 08:07 PM
+isha    : 09:07 PM
+-------------------
+Day 15
+fajr    : 04:55 AM
+sunrise : 06:29 AM
+dhuhr   : 01:06 PM
+asr     : 04:44 PM
+maghrib : 08:08 PM
+isha    : 09:08 PM
+-------------------
+Day 16
+fajr    : 04:56 AM
+sunrise : 06:30 AM
+dhuhr   : 01:07 PM
+asr     : 04:45 PM
+maghrib : 08:09 PM
+isha    : 09:09 PM
+-------------------
+Day 17
+fajr    : 04:57 AM
+sunrise : 06:31 AM
+dhuhr   : 01:08 PM
+asr     : 04:46 PM
+maghrib : 08:10 PM
+isha    : 09:10 PM
+-------------------
+Day 18
+fajr    : 04:58 AM
+sunrise : 06:32 AM
+dhuhr   : 01:09 PM
+asr     : 04:47 PM
+maghrib : 08:11 PM
+isha    : 09:11 PM
+-------------------
+Day 19
+fajr    : 04:59 AM
+sunrise : 06:33 AM
+dhuhr   : 01:10 PM
+asr     : 04:48 PM
+maghrib : 08:12 PM
+isha    : 09:12 PM
+-------------------
+Day 20
+fajr    : 05:00 AM
+sunrise : 06:34 AM
+dhuhr   : 01:11 PM
+asr     : 04:49 PM
+maghrib : 08:13 PM
+isha    : 09:13 PM
+-------------------
+Day 21
+fajr    : 05:01 AM
+sunrise : 06:35 AM
+dhuhr   : 01:12 PM
+asr     : 04:50 PM
+maghrib : 08:14 PM
+isha    : 09:14 PM
+-------------------
+Day 22
+fajr    : 05:02 AM
+sunrise : 06:36 AM
+dhuhr   : 01:13 PM
+asr     : 04:51 PM
+maghrib : 08:15 PM
+isha    : 09:15 PM
+-------------------
+Day 23
+fajr    : 05:03 AM
+sunrise : 06:37 AM
+dhuhr   : 01:14 PM
+asr     : 04:52 PM
+maghrib : 08:16 PM
+isha    : 09:16 PM
+-------------------
+Day 24
+fajr    : 05:04 AM
+sunrise : 06:38 AM
+dhuhr   : 01:15 PM
+asr     : 04:53 PM
+maghrib : 08:17 PM
+isha    : 09:17 PM
+-------------------
+Day 25
+fajr    : 05:05 AM
+sunrise : 06:39 AM
+dhuhr   : 01:16 PM
+asr     : 04:54 PM
+maghrib : 08:18 PM
+isha    : 09:18 PM
+-------------------
+Day 26
+fajr    : 05:06 AM
+sunrise : 06:40 AM
+dhuhr   : 01:17 PM
+asr     : 04:55 PM
+maghrib : 08:19 PM
+isha    : 09:19 PM
+-------------------
+Day 27
+fajr    : 05:07 AM
+sunrise : 06:41 AM
+dhuhr   : 01:18 PM
+asr     : 04:56 PM
+maghrib : 08:20 PM
+isha    : 09:20 PM
+-------------------
+Day 28
+fajr    : 05:08 AM
+sunrise : 06:42 AM
+dhuhr   : 01:19 PM
+asr     : 04:57 PM
+maghrib : 08:21 PM
+isha    : 09:21 PM
+-------------------
+Day 29
+fajr    : 05:09 AM
+sunrise : 06:43 AM
+dhuhr   : 01:20 PM
+asr     : 04:58 PM
+maghrib : 08:22 PM
+isha    : 09:22 PM
+-------------------
+Day 30
+fajr    : 05:10 AM
+sunrise : 06:44 AM
+dhuhr   : 01:21 PM
+asr     : 04:59 PM
+maghrib : 08:23 PM
+isha    : 09:23 PM
+-------------------
